@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sensibill</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_error">There was an error retrieving data.\n Please try again.</string>
+</resources>
